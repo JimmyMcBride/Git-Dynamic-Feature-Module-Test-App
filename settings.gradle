@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Git Dynamic Feature Module Test App"
-include ':app'
+include ':dynamic'
